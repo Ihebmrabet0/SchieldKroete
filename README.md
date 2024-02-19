@@ -2,6 +2,15 @@
 
 **![](Render.jpeg)**
 
+## Präsentationen
+
+[Erste Präsentation](https://www.canva.com/design/DAF0ck08wlY/KyTvZa1R2t_ZWuLOCTrIWg/edit?utm_content=DAF0ck08wlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Mittlere Präsentation](https://www.canva.com/design/DAF3NwGtKNY/gO03OJdvzaFCXvBd5bw7GQ/edit?utm_content=DAF3NwGtKNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Finale Präsentation](https://www.canva.com/design/DAF6i0d_T4A/OAscPg_fHkqIX4RX6LJBFw/edit?utm_content=DAF6i0d_T4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 ## Übersicht
 Das Projekt "Schildkröte", durchgeführt unter der Fakultät für Informatik und Elektrotechnik, Fachbereich Elektrotechnik der Universität Rostock im Wintersemester 2023/24, ist ein ambitioniertes Vorhaben, das auf die Konzeption und den Bau eines autonomen Roboters abzielt. Unter der Leitung von Iheb Mrabet und Max Balbach konzentriert sich das Projekt auf den Einsatz von Sensortechnologie zur Umgebungserfassung und autonomen Navigation, indem es Grundlagen der Robotik, Konstruktion, Elektronik und Programmierung zu einer kohäsiven Bildungs- und Entwicklungsplattform vereint.
 
